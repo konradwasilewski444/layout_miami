@@ -1,0 +1,2 @@
+document.querySelector("#button-primary").addEventListener("click",function(e){e.preventDefault(),document.getElementById("output-box").innerHTML+="Button clicked!<br>"},!1),window.addEventListener("hashchange",function(){"#menu"===window.location.hash?document.body.classList.add("page__body--with-menu"):document.body.classList.remove("page__body--with-menu")});
+//# sourceMappingURL=index.2ad8c5f5.js.map
